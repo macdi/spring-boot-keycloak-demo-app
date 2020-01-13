@@ -1,0 +1,4 @@
+/home/mehdi/dev-tessi/work-in-progress/keycloak-quickstarts/service-springboot-rest/src/main/java/org/keycloak/quickstart/springboot/service/ProductService.java
+/home/mehdi/dev-tessi/work-in-progress/keycloak-quickstarts/service-springboot-rest/src/main/java/org/keycloak/quickstart/springboot/web/ProductServiceController.java
+/home/mehdi/dev-tessi/work-in-progress/keycloak-quickstarts/service-springboot-rest/src/main/java/org/keycloak/quickstart/springboot/config/KeycloakConfig.java
+/home/mehdi/dev-tessi/work-in-progress/keycloak-quickstarts/service-springboot-rest/src/main/java/org/keycloak/quickstart/springboot/ProductServiceApplication.java
